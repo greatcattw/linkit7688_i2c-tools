@@ -1,13 +1,13 @@
-i2c-tools for Linkit 7688, openwrt 15, linux 3.18.109
+# i2c-tools 
 
-Openwrt Linux : 5.
+Openwrt Version : 15.05.1
 Linux Version : 3.18.109
 
 Openwrt platform : mt7688 LinkIt Smart 7688
 
 SRC base version : 3.1.0
 
-#Step of cross compile
+# Step of cross compile
 
 (1)
 set path of cross compile, for example :
