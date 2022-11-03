@@ -12,7 +12,9 @@
 
 mt7688 LinkIt Smart 7688
 
-SRC base version : 3.1.0
+## SRC base version : 
+
+3.1.0
 
 # Step of cross compile
 
