@@ -1,9 +1,16 @@
 # i2c-tools 
 
-Openwrt Version : 15.05.1
-Linux Version : 3.18.109
+## Openwrt Version : 
 
-Openwrt platform : mt7688 LinkIt Smart 7688
+15.05.1
+
+## Linux Version : 
+
+3.18.109
+
+## Openwrt platform : 
+
+mt7688 LinkIt Smart 7688
 
 SRC base version : 3.1.0
 
